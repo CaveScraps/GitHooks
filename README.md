@@ -4,7 +4,7 @@ GitHooks is a Golang module that provides useful functions to write git hooks.
 
 ## Usage
 
-Ad the module as a dependency to your golang project:
+Add the module as a dependency to your golang project:
 ```bash
 go get github.com/CaveScraps/GitHooks
 ```
